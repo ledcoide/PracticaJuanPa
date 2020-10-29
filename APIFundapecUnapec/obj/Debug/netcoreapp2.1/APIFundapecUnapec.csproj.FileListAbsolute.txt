@@ -1,0 +1,32 @@
+C:\Users\Shirley Contreras\Desktop\Cuatrimestre Septiembre-Diciembre 2020\Integración con tecnología Open Source\APIFundapecUnapec\APIFundapecUnapec\bin\Debug\netcoreapp2.1\APIFundapecUnapec.deps.json
+C:\Users\Shirley Contreras\Desktop\Cuatrimestre Septiembre-Diciembre 2020\Integración con tecnología Open Source\APIFundapecUnapec\APIFundapecUnapec\bin\Debug\netcoreapp2.1\APIFundapecUnapec.runtimeconfig.json
+C:\Users\Shirley Contreras\Desktop\Cuatrimestre Septiembre-Diciembre 2020\Integración con tecnología Open Source\APIFundapecUnapec\APIFundapecUnapec\bin\Debug\netcoreapp2.1\APIFundapecUnapec.runtimeconfig.dev.json
+C:\Users\Shirley Contreras\Desktop\Cuatrimestre Septiembre-Diciembre 2020\Integración con tecnología Open Source\APIFundapecUnapec\APIFundapecUnapec\bin\Debug\netcoreapp2.1\APIFundapecUnapec.dll
+C:\Users\Shirley Contreras\Desktop\Cuatrimestre Septiembre-Diciembre 2020\Integración con tecnología Open Source\APIFundapecUnapec\APIFundapecUnapec\bin\Debug\netcoreapp2.1\APIFundapecUnapec.pdb
+C:\Users\Shirley Contreras\Desktop\Cuatrimestre Septiembre-Diciembre 2020\Integración con tecnología Open Source\APIFundapecUnapec\APIFundapecUnapec\obj\Debug\netcoreapp2.1\APIFundapecUnapec.csprojAssemblyReference.cache
+C:\Users\Shirley Contreras\Desktop\Cuatrimestre Septiembre-Diciembre 2020\Integración con tecnología Open Source\APIFundapecUnapec\APIFundapecUnapec\obj\Debug\netcoreapp2.1\APIFundapecUnapec.csproj.CoreCompileInputs.cache
+C:\Users\Shirley Contreras\Desktop\Cuatrimestre Septiembre-Diciembre 2020\Integración con tecnología Open Source\APIFundapecUnapec\APIFundapecUnapec\obj\Debug\netcoreapp2.1\APIFundapecUnapec.RazorAssemblyInfo.cache
+C:\Users\Shirley Contreras\Desktop\Cuatrimestre Septiembre-Diciembre 2020\Integración con tecnología Open Source\APIFundapecUnapec\APIFundapecUnapec\obj\Debug\netcoreapp2.1\APIFundapecUnapec.RazorAssemblyInfo.cs
+C:\Users\Shirley Contreras\Desktop\Cuatrimestre Septiembre-Diciembre 2020\Integración con tecnología Open Source\APIFundapecUnapec\APIFundapecUnapec\obj\Debug\netcoreapp2.1\APIFundapecUnapec.AssemblyInfoInputs.cache
+C:\Users\Shirley Contreras\Desktop\Cuatrimestre Septiembre-Diciembre 2020\Integración con tecnología Open Source\APIFundapecUnapec\APIFundapecUnapec\obj\Debug\netcoreapp2.1\APIFundapecUnapec.AssemblyInfo.cs
+C:\Users\Shirley Contreras\Desktop\Cuatrimestre Septiembre-Diciembre 2020\Integración con tecnología Open Source\APIFundapecUnapec\APIFundapecUnapec\obj\Debug\netcoreapp2.1\APIFundapecUnapec.RazorTargetAssemblyInfo.cache
+C:\Users\Shirley Contreras\Desktop\Cuatrimestre Septiembre-Diciembre 2020\Integración con tecnología Open Source\APIFundapecUnapec\APIFundapecUnapec\obj\Debug\netcoreapp2.1\APIFundapecUnapec.dll
+C:\Users\Shirley Contreras\Desktop\Cuatrimestre Septiembre-Diciembre 2020\Integración con tecnología Open Source\APIFundapecUnapec\APIFundapecUnapec\obj\Debug\netcoreapp2.1\APIFundapecUnapec.pdb
+C:\Users\LEDCO\source\repos\APIFundapecUnapec\APIFundapecUnapec\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\LEDCO\source\repos\APIFundapecUnapec\APIFundapecUnapec\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\LEDCO\source\repos\APIFundapecUnapec\APIFundapecUnapec\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\LEDCO\source\repos\APIFundapecUnapec\APIFundapecUnapec\bin\Debug\netcoreapp2.1\APIFundapecUnapec.deps.json
+C:\Users\LEDCO\source\repos\APIFundapecUnapec\APIFundapecUnapec\bin\Debug\netcoreapp2.1\APIFundapecUnapec.runtimeconfig.json
+C:\Users\LEDCO\source\repos\APIFundapecUnapec\APIFundapecUnapec\bin\Debug\netcoreapp2.1\APIFundapecUnapec.runtimeconfig.dev.json
+C:\Users\LEDCO\source\repos\APIFundapecUnapec\APIFundapecUnapec\bin\Debug\netcoreapp2.1\APIFundapecUnapec.dll
+C:\Users\LEDCO\source\repos\APIFundapecUnapec\APIFundapecUnapec\bin\Debug\netcoreapp2.1\APIFundapecUnapec.pdb
+C:\Users\LEDCO\source\repos\APIFundapecUnapec\APIFundapecUnapec\obj\Debug\netcoreapp2.1\APIFundapecUnapec.csprojAssemblyReference.cache
+C:\Users\LEDCO\source\repos\APIFundapecUnapec\APIFundapecUnapec\obj\Debug\netcoreapp2.1\APIFundapecUnapec.AssemblyInfoInputs.cache
+C:\Users\LEDCO\source\repos\APIFundapecUnapec\APIFundapecUnapec\obj\Debug\netcoreapp2.1\APIFundapecUnapec.AssemblyInfo.cs
+C:\Users\LEDCO\source\repos\APIFundapecUnapec\APIFundapecUnapec\obj\Debug\netcoreapp2.1\APIFundapecUnapec.csproj.CoreCompileInputs.cache
+C:\Users\LEDCO\source\repos\APIFundapecUnapec\APIFundapecUnapec\obj\Debug\netcoreapp2.1\APIFundapecUnapec.RazorAssemblyInfo.cache
+C:\Users\LEDCO\source\repos\APIFundapecUnapec\APIFundapecUnapec\obj\Debug\netcoreapp2.1\APIFundapecUnapec.RazorAssemblyInfo.cs
+C:\Users\LEDCO\source\repos\APIFundapecUnapec\APIFundapecUnapec\obj\Debug\netcoreapp2.1\APIFundapecUnapec.RazorTargetAssemblyInfo.cache
+C:\Users\LEDCO\source\repos\APIFundapecUnapec\APIFundapecUnapec\obj\Debug\netcoreapp2.1\APIFundapecUnapec.dll
+C:\Users\LEDCO\source\repos\APIFundapecUnapec\APIFundapecUnapec\obj\Debug\netcoreapp2.1\APIFundapecUnapec.pdb
+C:\Users\LEDCO\source\repos\APIFundapecUnapec\APIFundapecUnapec\obj\Debug\netcoreapp2.1\APIFundapecUnapec.genruntimeconfig.cache
